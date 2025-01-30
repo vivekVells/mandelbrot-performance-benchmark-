@@ -27,18 +27,21 @@ This project compares the performance of Rust and JavaScript implementations of 
 ## Running the Benchmarks
 
 ### Rust Implementation
+
 ```bash
 cd mandelbrot-rust
 cargo run --release
 ```
 
 ### JavaScript Implementation
+
 ```bash
 cd mandelbrot-js
 node mandelbrot.js
 ```
 
 ## Metrics Collected
+
 - Execution time in milliseconds
 - Pixels processed per millisecond
 - Output verification (first 10 pixels)
