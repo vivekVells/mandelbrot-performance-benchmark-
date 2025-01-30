@@ -1,0 +1,1 @@
+/Users/vivekvells/Desktop/cl-access/mandelbrot-performance-benchmark/mandelbrot-rust/target/release/parallel: /Users/vivekvells/Desktop/cl-access/mandelbrot-performance-benchmark/mandelbrot-rust/src/main_parallel.rs

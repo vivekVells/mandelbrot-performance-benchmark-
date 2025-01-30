@@ -1,0 +1,15 @@
+[package]
+name = "mandelbrot-rust"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "sequential"
+path = "src/main_sequential.rs"
+
+[[bin]]
+name = "parallel"
+path = "src/main_parallel.rs"
+
+[dependencies]
+rayon = "1.8"
